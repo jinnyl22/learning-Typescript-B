@@ -6,9 +6,12 @@
 
 ### Chapter 01
 
-| Item |         Discussion          | Date     | Assignee |
-| :--: | :-------------------------: | :------- | :------- |
-|  01  | [타입스크립트 예시 1](링크) | 23.06.08 | 이름     |
+| Item |         Discussion          | Date     |
+| :--: | :-----------------------------------------------------------------------------------------------------------------: | :------- |
+|  01  | [자바스크립트에서 타입스크립트로](https://github.com/SeSAC-5th-fullstack/learning-Typescript-B/tree/main/part-01/Chapter-01) | 23.06.15 |
+|  02  | [타입 시스템](https://github.com/jinnyl22/learning-Typescript-B/tree/main/part-01/Chapter-02) | 23.06.15 |
+|  03  | [유니언과 리터럴](https://github.com/jinnyl22/learning-Typescript-B/tree/main/part-01/Chapter-03) | 23.06.15 |
+|  04  | [객체](https://github.com/SeSAC-5th-fullstack/learning-Typescript-B/tree/main/part-01/Chapter-04) | 23.06.15 |
 
 </div>
 
